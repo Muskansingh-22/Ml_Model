@@ -1,4 +1,4 @@
-## Predicition of cement composit strength Model
+## Predicition of Cement Composit Strength Model
 
 ## Abstract: 
 
